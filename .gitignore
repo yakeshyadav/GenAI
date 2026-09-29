@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# SQLite local db files
+chatbot.db
+chatbot.db-shm
+chatbot.db-wal
