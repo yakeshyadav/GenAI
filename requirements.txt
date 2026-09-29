@@ -11,7 +11,7 @@ torch
 transformers
 sentence_transformers
 torch
-langgraph.checkpoint.sqlite
+langgraph-checkpoint-sqlite
 langchain_community.tools
 ddgs
 langsmith
